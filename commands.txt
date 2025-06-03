@@ -1,0 +1,3 @@
+python3 log_analyzer.py --get-email --recipient manohar.shetty507@gmail.com --save-summary --get-beep
+
+python3 log_analyzer.py -f system.log --get-email --recipient manohar.shetty507@gmail.com --save-summary --get-beep
